@@ -6,7 +6,7 @@
 
 ## Overview
 
-The **BSP Navigator Module** is a high-performance C++ extension for AMX Mod X that provides direct, low-level access to GoldSrc (Half-Life 1 / Counter-Strike 1.6) BSP map data (Version 30). By parsing the BSP file directly in memory, this module allows Pawn plugins to bypass heavy engine calls and perform extremely fast mathematical operations, pathfinding checks, and entity retrievals.
+The **BSP Navigator Module** is a high-performance C++ extension for AMX Mod X that provides direct, low-level access to GoldSrc (Half-Life 1 / Counter-Strike 1.6) BSP map data (Version 1). By parsing the BSP file directly in memory, this module allows Pawn plugins to bypass heavy engine calls and perform extremely fast mathematical operations, pathfinding checks, and entity retrievals.
 
 ## Features
 
